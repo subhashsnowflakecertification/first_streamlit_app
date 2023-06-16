@@ -3,7 +3,7 @@ import pandas
 my_fruit_list = my_fruit_list.set_index('Fruit')
 
 
-streamlit.title('My Mom''s New Healthy Diner') 
+streamlit.title('My Moms New Healthy Diner') 
 
 streamlit.header('Breakfast menu')
 streamlit.text('🥣 Omega 3 & blueberry Oatmeal')

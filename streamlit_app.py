@@ -1,6 +1,5 @@
 import streamlit
 import pandas
-my_fruit_list = my_fruit_list.set_index('Fruit')
 
 
 streamlit.title('My Moms New Healthy Diner') 
